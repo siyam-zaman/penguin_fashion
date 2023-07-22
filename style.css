@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.font-roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.font-montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+.font-bebas{
+    font-family: 'Bebas Neue', sans-serif;
+}
+.Primary-text-color{
+    color:#FABE4C;
+}
+.Secondry-text-color{
+    color:#363958;
+}
+.Third-text-color{
+    color:#A4BC46;
+}
+.Primary-background-color{
+    background-color:#FFFBF0;
+}
+.Secondry-background-color{
+    background-color:#F1F1F1;
+}
