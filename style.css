@@ -1,30 +1,36 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 
-.font-roboto{
-    font-family: 'Roboto', sans-serif;
+.font-roboto {
+  font-family: "Roboto", sans-serif;
 }
-.font-montserrat{
-    font-family: 'Montserrat', sans-serif;
+.font-montserrat {
+  font-family: "Montserrat", sans-serif;
 }
-.font-bebas{
-    font-family: 'Bebas Neue', sans-serif;
+.font-bebas {
+  font-family: "Bebas Neue", sans-serif;
 }
-.Primary-text-color{
-    color:#FABE4C;
+.Primary-text-color {
+  color: #fabe4c;
 }
-.Secondry-text-color{
-    color:#363958;
+.Secondry-text-color {
+  color: #363958;
 }
-.Third-text-color{
-    color:#A4BC46;
+.Third-text-color {
+  color: #a4bc46;
 }
-.Primary-background-color{
-    background-color:#FFFBF0;
+.Primary-background-color {
+  background-color: #fffbf0;
 }
-.Secondry-background-color{
-    background-color:#F1F1F1;
+.Secondry-background-color {
+  background-color: #f1f1f1;
 }
+/* 
+<button
+            class="bg-gradient-to-br from-[#A4BC46] to-[#85A019] py-5 px-8 rounded text-white"
+          >
+            <i class="fa-solid fa-cart-shopping me-2"></i>BUY NOW
+          </button> */
